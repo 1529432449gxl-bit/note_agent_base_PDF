@@ -1,0 +1,4 @@
+interface:
+  display_name: "note_agent_base_PDF"
+  short_description: "按数学课程笔记的格式与习惯，将教材和讲义 PDF 整理为 Obsidian 笔记"
+  default_prompt: "请按我的数学课程笔记风格整理这份 PDF，并核对公式、条件及章节覆盖。"
